@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack - Expense & Budget Manager",
+  "description": "Comprehensive personal finance and budget management platform with income & expense tracking, category budgets, analytics reports, notifications, admin panel, and REST API testing studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
